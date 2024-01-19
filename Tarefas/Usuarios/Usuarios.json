@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "Nome": "Alex",
+      "Email": "alex235@gmail.com",
+      "NomeUsuario": "AlexUS",
+      "Cargo": 1,
+      "Senha": "senha123"
+    },
+    {
+      "Nome": "Pedro",
+      "Email": "pedro12@gmail.com",
+      "NomeUsuario": "PedroUS",
+      "Cargo": 2,
+      "Senha": "senha124"
+    },
+    {
+      "Nome": "Kaique",
+      "Email": "kaique28@gmail.com",
+      "NomeUsuario": "KaiquUS",
+      "Cargo": 2,
+      "Senha": "senha125"
+    },
+    {
+      "Nome": "Julia",
+      "Email": "julia90@gmail.com",
+      "NomeUsuario": "JuliaUS",
+      "Cargo": 2,
+      "Senha": "senha126"
+    },
+    {
+      "Nome": "Henrique",
+      "Email": "henrique56@gmail.com",
+      "NomeUsuario": "HenriqueUS",
+      "Cargo": 1,
+      "Senha": "senha127"
+    },
+    {
+      "Nome": "Gustavo",
+      "Email": "gustavo79@gmail.com",
+      "NomeUsuario": "GustavoUS",
+      "Cargo": 1,
+      "Senha": "senha128"
+    },
+    {
+      "Nome": "Sarah",
+      "Email": "sarah58@gmail.com",
+      "NomeUsuario": "SarahUS",
+      "Cargo": 1,
+      "Senha": "senha129"
+    }
+  ]
